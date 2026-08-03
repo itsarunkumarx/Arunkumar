@@ -69,6 +69,23 @@
 | **Backend & DB** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> |
 | **Tools & Design** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🧩 LeetCode & Problem Solving
+
+<div align="center">
+
+<p align="center">
+  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Active_Solver-00D4FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<a href="https://leetcode.com/u/itsarunkumarx/">
+  <img src="https://leetcode-stats-api.herokuapp.com/itsarunkumarx" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
