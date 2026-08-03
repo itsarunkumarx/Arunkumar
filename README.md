@@ -27,24 +27,23 @@
 ## ⚡ About Me & Current Focus
 
 <table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👋 Hey there! I'm Arunkumar P</h3>
-      <p>I am a <b>Computer Science & Engineering Student (2023–2027)</b> passionate about engineering high-performance web applications, real-time architectures, and fluid user experiences.</p>
-      
-      <h4>🚀 Quick Highlights</h4>
-      <ul>
-        <li>🔭 <b>Building:</b> <a href="https://github.com/itsarunkumarx/Find-Your-Painter"><b>Find Your Painter</b></a> – On-demand painter discovery & booking platform.</li>
-        <li>🌱 <b>Learning:</b> Next.js 14 Server Components, Docker & Microservices.</li>
-        <li>👯 <b>Collaborating On:</b> Modern MERN apps, UI design systems, and open-source packages.</li>
-        <li>💬 <b>Ask Me About:</b> React, Node.js, Express, MongoDB, Socket.io & CSS Magic.</li>
-        <li>⚡ <b>Motto:</b> <i>"Turning complex logic into seamless visual experiences."</i></li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarunkumarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+<h3>👋 Hey there! I'm Arunkumar P</h3>
+<p>I am a <b>Computer Science & Engineering Student (2023–2027)</b> passionate about engineering high-performance web applications, real-time architectures, and fluid user experiences.</p>
+<h4>🚀 Quick Highlights</h4>
+<ul>
+<li>🔭 <b>Building:</b> <a href="https://github.com/itsarunkumarx/Find-Your-Painter"><b>Find Your Painter</b></a> – On-demand painter discovery & booking platform.</li>
+<li>🌱 <b>Learning:</b> Next.js 14 Server Components, Docker & Microservices.</li>
+<li>👯 <b>Collaborating On:</b> Modern MERN apps, UI design systems, and open-source packages.</li>
+<li>💬 <b>Ask Me About:</b> React, Node.js, Express, MongoDB, Socket.io & CSS Magic.</li>
+<li>⚡ <b>Motto:</b> <i>"Turning complex logic into seamless visual experiences."</i></li>
+</ul>
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarunkumarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="100%" />
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -77,35 +76,35 @@
 ## 🌟 Featured Projects & Innovations
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Find Your Painter</h3>
-      <p align="center"><b>On-Demand Painter Discovery & Booking Platform</b></p>
-      <p>A smart web application connecting clients with professional local painters, featuring artist portfolio showcases, booking management, and service inquiries.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <div align="center">
-        <a href="https://github.com/itsarunkumarx/Find-Your-Painter"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 ASMART</h3>
-      <p align="center"><b>Modern Conversion E-Commerce UI</b></p>
-      <p>High-speed, responsive frontend e-commerce store with smooth product filtering, interactive cart state, and optimized UX flow.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <div align="center">
-        <a href="https://github.com/itsarunkumarx/ASMART"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🎨 Find Your Painter</h3>
+<p align="center"><b>On-Demand Painter Discovery & Booking Platform</b></p>
+<p>A smart web application connecting clients with professional local painters, featuring artist portfolio showcases, booking management, and service inquiries.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+<div align="center">
+<a href="https://github.com/itsarunkumarx/Find-Your-Painter"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🛒 ASMART</h3>
+<p align="center"><b>Modern Conversion E-Commerce UI</b></p>
+<p>High-speed, responsive frontend e-commerce store with smooth product filtering, interactive cart state, and optimized UX flow.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+<div align="center">
+<a href="https://github.com/itsarunkumarx/ASMART"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+</div>
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
