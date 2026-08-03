@@ -77,14 +77,31 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Active_Solver-00D4FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Active_Practitioner-00D4FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 <br/>
 
-<a href="https://leetcode.com/u/itsarunkumarx/">
-  <img src="https://leetcode-stats-api.herokuapp.com/itsarunkumarx" alt="LeetCode Stats" />
-</a>
+<table width="80%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Easy-Green?style=flat-square&logo=leetcode&logoColor=white"/><br/>
+<b>Arrays, Strings & Linked Lists</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Medium-Orange?style=flat-square&logo=leetcode&logoColor=white"/><br/>
+<b>Trees, Graphs & Dynamic Prog</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Hard-Red?style=flat-square&logo=leetcode&logoColor=white"/><br/>
+<b>Advanced Algorithms</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
