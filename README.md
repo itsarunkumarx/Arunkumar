@@ -116,13 +116,13 @@
 
 <!-- Activity Graph Widget -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsarunkumarx&theme=tokyonight&area=true&hide_border=true&color=00d4ff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsarunkumarx&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <!-- Stats & Streak Side by Side -->
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=itsarunkumarx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
-  <img height="185em" src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarunkumarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
+  <img height="170" src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 <!-- Profile Trophies -->
