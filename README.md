@@ -123,10 +123,7 @@
   <img src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
-<!-- Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsarunkumarx&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 </div>
 
