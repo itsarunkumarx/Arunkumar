@@ -34,7 +34,7 @@
       
       <h4>🚀 Quick Highlights</h4>
       <ul>
-        <li>🔭 <b>Building:</b> <a href="https://github.com/itsarunkumarx/K-Dramax"><b>K-Dramax</b></a> – Full-stack real-time streaming platform.</li>
+        <li>🔭 <b>Building:</b> <a href="https://github.com/itsarunkumarx/Find-Your-Painter"><b>Find Your Painter</b></a> – On-demand painter discovery & booking platform.</li>
         <li>🌱 <b>Learning:</b> Next.js 14 Server Components, Docker & Microservices.</li>
         <li>👯 <b>Collaborating On:</b> Modern MERN apps, UI design systems, and open-source packages.</li>
         <li>💬 <b>Ask Me About:</b> React, Node.js, Express, MongoDB, Socket.io & CSS Magic.</li>
@@ -79,17 +79,17 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 K-Dramax</h3>
-      <p align="center"><b>Real-Time Interactive Streaming Platform</b></p>
-      <p>A full-featured streaming concept designed for K-Drama fans featuring real-time room chat, user auth, and watchlist management.</p>
+      <h3 align="center">🎨 Find Your Painter</h3>
+      <p align="center"><b>On-Demand Painter Discovery & Booking Platform</b></p>
+      <p>A smart web application connecting clients with professional local painters, featuring artist portfolio showcases, booking management, and service inquiries.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
       <div align="center">
-        <a href="https://github.com/itsarunkumarx/K-Dramax"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+        <a href="https://github.com/itsarunkumarx/Find-Your-Painter"><img src="https://img.shields.io/badge/Explore_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
