@@ -41,9 +41,7 @@
 </ul>
 </td>
 <td width="45%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsarunkumarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -120,10 +118,9 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsarunkumarx&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<!-- Stats & Streak Side by Side -->
+<!-- Streak Stats -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsarunkumarx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
-  <img height="170" src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 <!-- Profile Trophies -->
