@@ -40,8 +40,10 @@
 <li>⚡ <b>Motto:</b> <i>"Turning complex logic into seamless visual experiences."</i></li>
 </ul>
 </td>
-<td width="45%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarunkumarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="100%" />
+<td width="45%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsarunkumarx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="100%" />
 </td>
 </tr>
 </table>
