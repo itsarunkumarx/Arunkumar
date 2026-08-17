@@ -76,8 +76,8 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-Active_Practitioner-00D4FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/itsarunkumarx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank"><img src="https://img.shields.io/badge/Solutions_Repo-leetcode__solution-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 <br/>
@@ -101,7 +101,9 @@
 
 <br/>
 
-<a href="https://leetcode.com/u/itsarunkumarx/"><img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<p align="center">
+  <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank"><img src="https://img.shields.io/badge/Explore_LeetCode_Solutions_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
 
 </div>
 
