@@ -1,0 +1,29 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically once every day
+  workflow_dispatch:     # Allows manual trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Updated Streak Stats SVG
+        run: |
+          mkdir -p assets
+          curl -s -f "https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" -o assets/streak-stats.svg || echo "Preserving existing streak SVG if API busy"
+
+      - name: Commit and Push Updated Stats
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/streak-stats.svg
+          git diff --staged --quiet || git commit -m "chore: auto-update streak stats"
+          git push
