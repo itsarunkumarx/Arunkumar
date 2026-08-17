@@ -154,7 +154,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsarunkumarx&theme=tokyonight&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 
