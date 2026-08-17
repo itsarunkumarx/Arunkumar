@@ -154,7 +154,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsarunkumarx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 
