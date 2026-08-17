@@ -80,26 +80,12 @@
   <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank"><img src="https://img.shields.io/badge/Solutions_Repo-leetcode__solution-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
-<br/>
-
-<table width="80%">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Easy-Green?style=flat-square&logo=leetcode&logoColor=white"/><br/>
-<b>Arrays, Strings & Linked Lists</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Medium-Orange?style=flat-square&logo=leetcode&logoColor=white"/><br/>
-<b>Trees, Graphs & Dynamic Prog</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Hard-Red?style=flat-square&logo=leetcode&logoColor=white"/><br/>
-<b>Advanced Algorithms</b>
-</td>
-</tr>
-</table>
-
-<br/>
+<!-- Digital Visual Circular Gauge Matrix -->
+<p align="center">
+  <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank">
+    <img src="./assets/leetcode-card.svg" width="100%" alt="LeetCode Digital Problem Solving Matrix" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank"><img src="https://img.shields.io/badge/Explore_LeetCode_Solutions_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>

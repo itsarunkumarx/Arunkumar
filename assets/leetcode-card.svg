@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 220" width="100%" height="220" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0f1926"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0077b5"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e676"/>
+      <stop offset="100%" stop-color="#00b8a3"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffa116"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff375f"/>
+      <stop offset="100%" stop-color="#e91e63"/>
+    </linearGradient>
+    
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowGreen" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowOrange" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowRed" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseRing {
+      0% { stroke-dashoffset: 280; }
+      50% { stroke-dashoffset: 60; }
+      100% { stroke-dashoffset: 280; }
+    }
+    .ring-cyan { stroke-dasharray: 280; stroke-dashoffset: 50; animation: pulseRing 8s ease-in-out infinite; }
+    .ring-green { stroke-dasharray: 280; stroke-dashoffset: 75; animation: pulseRing 8s ease-in-out infinite 0.5s; }
+    .ring-orange { stroke-dasharray: 280; stroke-dashoffset: 110; animation: pulseRing 8s ease-in-out infinite 1s; }
+    .ring-red { stroke-dasharray: 280; stroke-dashoffset: 170; animation: pulseRing 8s ease-in-out infinite 1.5s; }
+    .title-text { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 700; }
+    .sub-text { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 500; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="748" height="218" rx="12" fill="url(#bgGrad)" stroke="#00d4ff" stroke-width="1.5" stroke-opacity="0.6"/>
+
+  <!-- Top Title Bar -->
+  <g transform="translate(25, 28)">
+    <circle cx="6" cy="6" r="6" fill="#00d4ff" filter="url(#glowCyan)"/>
+    <text x="22" y="10" fill="#ffffff" class="title-text" font-size="15" letter-spacing="1">DIGITAL PROBLEM SOLVING MATRIX</text>
+    <text x="540" y="10" fill="#00d4ff" class="sub-text" font-size="12">DSA ENGINE: ACTIVE</text>
+  </g>
+
+  <!-- Ring 1: Total Solved (Cyan) -->
+  <g transform="translate(100, 115)">
+    <!-- Track -->
+    <circle cx="0" cy="0" r="45" stroke="#1f293d" stroke-width="8" fill="none"/>
+    <!-- Dynamic Ring -->
+    <circle cx="0" cy="0" r="45" stroke="url(#cyanGrad)" stroke-width="8" stroke-linecap="round" fill="none" class="ring-cyan" filter="url(#glowCyan)" transform="rotate(-90)"/>
+    <!-- Inside Center Text -->
+    <text x="0" y="-3" text-anchor="middle" fill="#00d4ff" class="title-text" font-size="18">SOLVED</text>
+    <text x="0" y="14" text-anchor="middle" fill="#8b949e" class="sub-text" font-size="11">Dailies &amp; DSA</text>
+    <!-- Label Below -->
+    <text x="0" y="65" text-anchor="middle" fill="#c9d1d9" class="title-text" font-size="13">⚡ TOTAL SOLVED</text>
+  </g>
+
+  <!-- Ring 2: Easy (Green) -->
+  <g transform="translate(280, 115)">
+    <!-- Track -->
+    <circle cx="0" cy="0" r="45" stroke="#1f293d" stroke-width="8" fill="none"/>
+    <!-- Dynamic Ring -->
+    <circle cx="0" cy="0" r="45" stroke="url(#greenGrad)" stroke-width="8" stroke-linecap="round" fill="none" class="ring-green" filter="url(#glowGreen)" transform="rotate(-90)"/>
+    <!-- Inside Center Text -->
+    <text x="0" y="-3" text-anchor="middle" fill="#00e676" class="title-text" font-size="18">EASY</text>
+    <text x="0" y="14" text-anchor="middle" fill="#8b949e" class="sub-text" font-size="11">Fundamental</text>
+    <!-- Label Below -->
+    <text x="0" y="65" text-anchor="middle" fill="#c9d1d9" class="title-text" font-size="13">🌱 ARRAYS &amp; STRINGS</text>
+  </g>
+
+  <!-- Ring 3: Medium (Orange) -->
+  <g transform="translate(460, 115)">
+    <!-- Track -->
+    <circle cx="0" cy="0" r="45" stroke="#1f293d" stroke-width="8" fill="none"/>
+    <!-- Dynamic Ring -->
+    <circle cx="0" cy="0" r="45" stroke="url(#orangeGrad)" stroke-width="8" stroke-linecap="round" fill="none" class="ring-orange" filter="url(#glowOrange)" transform="rotate(-90)"/>
+    <!-- Inside Center Text -->
+    <text x="0" y="-3" text-anchor="middle" fill="#ffa116" class="title-text" font-size="18">MEDIUM</text>
+    <text x="0" y="14" text-anchor="middle" fill="#8b949e" class="sub-text" font-size="11">Core DSA</text>
+    <!-- Label Below -->
+    <text x="0" y="65" text-anchor="middle" fill="#c9d1d9" class="title-text" font-size="13">🔥 TREES &amp; GRAPHS</text>
+  </g>
+
+  <!-- Ring 4: Hard (Red) -->
+  <g transform="translate(640, 115)">
+    <!-- Track -->
+    <circle cx="0" cy="0" r="45" stroke="#1f293d" stroke-width="8" fill="none"/>
+    <!-- Dynamic Ring -->
+    <circle cx="0" cy="0" r="45" stroke="url(#redGrad)" stroke-width="8" stroke-linecap="round" fill="none" class="ring-red" filter="url(#glowRed)" transform="rotate(-90)"/>
+    <!-- Inside Center Text -->
+    <text x="0" y="-3" text-anchor="middle" fill="#ff375f" class="title-text" font-size="18">HARD</text>
+    <text x="0" y="14" text-anchor="middle" fill="#8b949e" class="sub-text" font-size="11">Mastery</text>
+    <!-- Label Below -->
+    <text x="0" y="65" text-anchor="middle" fill="#c9d1d9" class="title-text" font-size="13">💎 ADVANCED DP</text>
+  </g>
+</svg>
