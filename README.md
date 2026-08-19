@@ -83,7 +83,7 @@
 <!-- Digital Visual Circular Gauge Matrix -->
 <p align="center">
   <a href="https://github.com/itsarunkumarx/leetcode_solution" target="_blank">
-    <img src="./assets/leetcode-card.svg" width="100%" alt="LeetCode Digital Problem Solving Matrix" />
+    <img src="https://raw.githubusercontent.com/itsarunkumarx/itsarunkumarx/main/assets/leetcode-card.svg" width="100%" alt="LeetCode Digital Problem Solving Matrix" />
   </a>
 </p>
 
@@ -142,7 +142,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="./assets/streak-stats.svg" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/itsarunkumarx/itsarunkumarx/main/assets/streak-stats.svg" alt="GitHub Streak Stats" />
 </p>
 
 
